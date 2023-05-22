@@ -1,1 +1,1 @@
-# Time_Series_Analysis_On_Infosys_Stock_Dataset
+INFOSYS STOCK PRICE PREDICTION USING ARIMA MODEL
